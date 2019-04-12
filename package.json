@@ -2,7 +2,6 @@
   "name": "sensortag-pg",
   "version": "1.0.0",
   "dependencies": {
-    "noble-device": "^1.4.1",
-    "noble-device-pg": "^1.1.2"
+    "noble-device-pg": "^1.2.0"
   }
 }
