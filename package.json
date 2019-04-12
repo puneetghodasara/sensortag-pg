@@ -1,7 +1,16 @@
 {
   "name": "sensortag-pg",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "",
   "dependencies": {
     "noble-device-pg": "^1.2.0"
+  },
+  "author": {
+    "name": "Puneet Ghodasara",
+    "url": "https://puneetghodasara.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puneetghodasara/sensortag-pg"
   }
 }
