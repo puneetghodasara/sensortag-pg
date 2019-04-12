@@ -24,7 +24,10 @@ SensorTagFactory.discoverById("a434f1f37d92", type.CC1350, (cc1350) => {
             console.log("Lux Data : " + lux);
         }).humidity(true, 2550, (humidity) => {
             console.log("Humidity Data : " + humidity);
-        }).ambientTemp(true, 2550);
+        }).ambientTemp(true, 2550, undefined)
+            .pressure(true, 2550, (pressure) => {
+                console.log("Pressure Data : " + pressure);
+            });
     });
 
 });
