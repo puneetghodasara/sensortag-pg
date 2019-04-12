@@ -12,5 +12,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/puneetghodasara/sensortag-pg"
-  }
+  },
+  "keywords": [
+    "SensorTag",
+    "TI SimpleLink",
+    "CC1350",
+    "CC2650"
+  ]
 }
