@@ -2,7 +2,7 @@
 
 This Library helps to connect, subscribe to data for various sensor services offered by TI SensorTags (http://www.ti.com/tools-software/sensortag.html) over BLE (Bluetooth Low Energy).
 
-## Depeneds On
+## Depends On
 - noble-device-pg
 - noble
 
